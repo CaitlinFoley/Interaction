@@ -4,8 +4,8 @@ public class Employee {
     public Double serviceLength;
 
     public Employee(){
-        salary = 80000;
-        serviceLength = 2.5; 
+        salary = 60000;
+        serviceLength = 4.5; 
 
     }
 
